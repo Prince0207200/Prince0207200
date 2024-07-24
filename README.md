@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://Prince0207200.io)
+[![MasterHead](https://github.com/Prince0207200/Prince0207200/blob/main/git_banner.png?raw=true)](https://Prince0207200.io)
 
 <h1 align="center">Hi 👋, I'm Prince Gupta</h1>
 <h3 align="center">A aspiring Web developer from India</h3>
